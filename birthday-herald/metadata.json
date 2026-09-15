@@ -1,0 +1,5 @@
+{
+  "name": "Birthday Herald",
+  "description": "Birthday Herald is an application to generate and send personalized birthday wishes with KJV Bible verses to church members on their special day.",
+  "requestFramePermissions": []
+}
